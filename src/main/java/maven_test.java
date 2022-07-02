@@ -5,5 +5,6 @@
 public class maven_test {
     public static void main(String [] args){
         System.out.println("欢迎使用maven");
+        System.out.println("java 很好！");
     }
 }
