@@ -8,5 +8,7 @@ public class maven_test {
         System.out.println("java 很好！");
         System.out.println("这里是hot-fix分支");
         System.out.println("master test");
+        System.out.println("这里是hot-fix分支");
+        System.out.println("hot-fix   test");
     }
 }
